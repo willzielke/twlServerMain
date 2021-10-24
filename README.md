@@ -38,3 +38,5 @@ INSERT in cmd:
         
 **Helpful Links:**
         https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-dotnet
+        https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website
+        https://docs.microsoft.com/en-us/azure/storage/blobs/quickstart-blobs-javascript-browser
