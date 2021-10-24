@@ -1,4 +1,7 @@
-﻿using Azure.Storage.Blobs;
+﻿// Will Z 2021
+//Project: TWL
+
+using Azure.Storage.Blobs;
 using Azure.Storage.Blobs.Models;
 using System;
 using System.IO;
@@ -15,7 +18,7 @@ namespace BlobQuickstartV12
             BlobServiceClient blobServiceClient = new BlobServiceClient(connectionString);
 
             //Create a unique name for the container
-            string containerName = "quickstartblobs" + Guid.NewGuid().ToString();
+            string containerName = "TWLSPECIALREQUEST" + Guid.NewGuid().ToString();
 
             // Create the container and return a container client object
             BlobContainerClient containerClient = await blobServiceClient.CreateBlobContainerAsync(containerName);
@@ -45,8 +48,9 @@ namespace BlobQuickstartV12
 
             // Download the blob's contents and save it to a file
             await blobClient.DownloadToAsync(downloadFilePath);
-
-           /* // Clean up
+            
+            /* COMMENTED OUT FOR TESTING
+            
             Console.Write("Press any key to begin clean up");
             Console.ReadLine();
 
