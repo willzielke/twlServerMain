@@ -16,7 +16,7 @@
 
         Install .NET SDK (5.0.402 TESTED)
 
-**Instructions:**
+**Instructions (.NET implementation):**
         
 INSERT in cmd:
         
@@ -35,6 +35,11 @@ INSERT in cmd:
         dotnet build (builds app)
 
         dotnet run (runs app)
+        
+**Instructions (NodeJs implementation):**
+        
+        Pending
+        
         
 **Helpful Links:**
         https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-dotnet
