@@ -1,8 +1,8 @@
 # TWL-Server-.NET-Azure-
 
-  Designer/Devloper: Will Zielke
+  Designer/Developer: Will Zielke
 
-  Project: Together We Learn
+  Project: **Together We Learn**
 
   Made for: Porter Gaud CS Dept.
 
