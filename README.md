@@ -8,4 +8,4 @@ Made for: Porter Gaud CS Dept.
 
 Description:
 
-Uses .NET (Windows side) yo uploads and dowload .txt documents to Azure Blob Storage. (Setup account for the POC, and for the project) Currently working on Unity scene uploads as well (for showcase). 
+Uses .NET (Windows side) to upload and download .txt documents to Azure Blob Storage. (Setup account for the POC, and for the project) Currently working on Unity scene uploads as well (for showcase). 
