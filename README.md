@@ -15,6 +15,8 @@
   Install .NET SDK (5.0.402 TESTED)
 
 **Instructions:**
+  
+  Enter project directory
 
   dotnet build
   
