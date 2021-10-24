@@ -8,27 +8,31 @@
 
 **Description:**
 
-         Uses .NET (Windows side) to upload and download .txt documents to Azure Blob Storage. (Setup account for the POC, and for the project) Currently working on Unity scene uploads as well (for showcase). 
+   Uses .NET (Windows side) to upload and download .txt documents to Azure Blob Storage. (Setup account for the POC, and for the project) Currently working on Unity scene uploads as well (for showcase). 
 
 **Prerequisites:**
 
         Install .NET SDK (5.0.402 TESTED)
 
 **Instructions:**
-  
-        **INSERT in cmd: dotnet new console -n TWLSERVER** (Creates project)
+        
+INSERT in cmd:
+        
+        dotnet new console -n TWLSERVER (Creates project)
 
-        **INSERT in cmd: cd TWLSERVER** (goes to project folder)
+        cd TWLSERVER (goes to project folder)
 
-        **INSERT in cmd: mkdir data** (creates the subdir "data" in the project folder)
+        mkdir data** (creates the subdir "data" in the project folder)
 
-        **INSERT in cmd: dotnet add package Azure.Storage.Blobs** (Adds the package responsible for Blob storage uploading/downloading)
+        dotnet add package Azure.Storage.Blobs (Adds the package responsible for Blob storage uploading/downloading)
 
-        **Copy "Program.cs" to the created Directory**
+Copy "Program.cs" to the created Directory
 
-        **INSERT in cmd: dotnet build** (builds app)
+INSERT in cmd:
 
-        **INSERT in cmd: dotnet run** (runs app)
+        dotnet build (builds app)
+
+        dotnet run (runs app)
         
 **Helpful Links:**
         https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-dotnet
