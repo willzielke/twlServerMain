@@ -16,8 +16,16 @@
 
 **Instructions:**
   
-  Enter project directory
-
-  dotnet build
+  **INSERT in cmd: dotnet new console -n TWLSERVER** (Creates project)
   
-  dotnet run
+  **INSERT in cmd: cd TWLSERVER** (goes to project folder)
+  
+  **INSERT in cmd: mkdir data** (creates the subdir "data" in the project folder)
+  
+  **INSERT in cmd: dotnet add package Azure.Storage.Blobs** (Adds the package responsible for Blob storage uploading/downloading)
+  
+  **Copy "Program.cs" to the created Directory**
+
+  **INSERT in cmd: dotnet build** (builds app)
+  
+  **INSERT in cmd: dotnet run** (runs app)
