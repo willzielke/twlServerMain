@@ -10,7 +10,7 @@
 
 **Description:**
 
-   Uses .NET (Windows side) to upload and download .txt documents to Azure Blob Storage. (Setup account for the POC, and for the project) Currently working on Node.js implementation to upload from the TWL Azure Static website. Essently teachers can upload unity scenes or links for their lessons. POC is currently working on a localhost server. Need to deploy to Azure. Also need to add code to handle the delivery of the assets for the VR headsets.
+   Uses .NET (Windows side) to upload and download .txt documents to Azure Blob Storage. (Setup account for the POC, and for the project) Currently working on Node.js implementation to upload from the TWL Azure Static website. Essently teachers can upload unity scenes or links for their lessons. POC is currently working on a localhost server. Need to deploy to Azure. Also need to add code to handle the delivery of the assets for the VR headsets. (Unity3d)
 
 **Prerequisites:**
 
