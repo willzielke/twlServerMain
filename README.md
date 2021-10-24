@@ -38,7 +38,7 @@ INSERT in cmd:
         
 **Instructions (NodeJs implementation):**
         
-        Pending
+        Pending (Assets attached are not exhustive)
         
         
 **Helpful Links:**
