@@ -22,7 +22,7 @@ INSERT in cmd:
 
         cd TWLSERVER (goes to project folder)
 
-        mkdir data** (creates the subdir "data" in the project folder)
+        mkdir data (creates the subdir "data" in the project folder)
 
         dotnet add package Azure.Storage.Blobs (Adds the package responsible for Blob storage uploading/downloading)
 
