@@ -1,7 +1,5 @@
 # TWL Server (.NET, NodeJs, Azure Blob Storage, Azure Web App)
 
-  Designer/Developer: Will Zielke
-
   Project: **Together We Learn**
 
   Made In: Porter Gaud CS Dept.
