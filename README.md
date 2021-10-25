@@ -6,7 +6,7 @@
   
   Website Homepage (Blob Storage): https://twlazure.z13.web.core.windows.net/
   
-  Website Homepage (NodeJS upload service): Pending  
+  Website Homepage (NodeJS upload service): http://52.170.35.138/  
 
 **Description:**
 
