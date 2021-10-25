@@ -13,7 +13,7 @@ namespace TWLSERVER
     {
         static async Task Main()
         {
-            string connectionString = "DefaultEndpointsProtocol=https;AccountName=twlazure;AccountKey=af2YhkWLvnOr6tXwxOiTFZdUzqGVsakV2g0G3BbGHxWcAPu/wCRJ+v1+xrAneoCtEV6QepmnCNrbI8AqBemOow==;EndpointSuffix=core.windows.net";
+            string connectionString = "client_secret"; //ADD CLIENT SECRET
             // Create a BlobServiceClient object which will be used to create a container client
             BlobServiceClient blobServiceClient = new BlobServiceClient(connectionString);
 
