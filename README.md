@@ -1,4 +1,4 @@
-# TWL Server (.NET, NodeJs, Azure Blob Storage, Azure Web App)
+# TWL Server (.NET, NodeJs, Azure Blob Storage, Azure VM)
 
   Project: **Together We Learn**
 
@@ -6,7 +6,7 @@
   
   Website Homepage (Blob Storage): https://twlazure.z13.web.core.windows.net/
   
-  Website Homepage (NodeJS upload service): http://52.170.35.138/  
+  Website Homepage (NodeJS upload service): http://52.170.35.138:80  
 
 **Description:**
 
