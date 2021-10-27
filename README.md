@@ -4,9 +4,9 @@
 
   Made In: Porter Gaud CS Dept.
   
-  Website Homepage (Blob Storage): -
+  Website Homepage (Blob Storage): - https://togetherwelearn.z13.web.core.windows.net/
   
-  Website Homepage (.NET upload service): https://twluploadserver.azurewebsites.net/
+  Website Homepage (WEB APP + Blob Storage): https://twluploadserver.azurewebsites.net/
 
 **Description:**
 
