@@ -1,4 +1,4 @@
-# TWL Server (.NET, NodeJs, Azure Blob Storage, Azure VM)
+# TWL Server (.NET, Azure Blob Storage, Azure Web App, C#)
 
   Project: **Together We Learn**
 
