@@ -4,9 +4,9 @@
 
   Made In: Porter Gaud CS Dept.
   
-  Website Homepage (Blob Storage): https://twlazure.z13.web.core.windows.net/
+  Website Homepage (Blob Storage): -
   
-  Website Homepage (NodeJS upload service): http://52.170.35.138:80  
+  Website Homepage (.NET upload service): https://twluploadserver.azurewebsites.net/
 
 **Description:**
 
