@@ -45,4 +45,5 @@ INSERT in cmd:
 **Helpful Links:**
         https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-dotnet
         https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website
-        https://docs.microsoft.com/en-us/azure/storage/blobs/quickstart-blobs-javascript-browser
+        https://docs.microsoft.com/en-us/azure/storage/blobs/storage-upload-process-images?tabs=dotnet%2Cazure-powershell
+        https://www.c-sharpcorner.com/article/upload-and-download-file-to-azure-blob-storage-using-c-sharp/
