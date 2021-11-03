@@ -8,7 +8,7 @@
   
   Website Homepage (Blob Storage): - https://togetherwelearn.z13.web.core.windows.net/
   
-  Website Homepage (WEB APP + Blob Storage): https://twluploadserver.azurewebsites.net/
+  Website Homepage (WEB APP + Blob Storage): http://20.121.206.251
 
 **Description:**
 
